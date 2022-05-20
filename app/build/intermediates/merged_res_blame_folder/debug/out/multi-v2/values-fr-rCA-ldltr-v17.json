@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.androidlabs.app-mergeDebugResources-17:/values-fr-rCA-ldltr-v17/values-fr-rCA-ldltr-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\musta\\Downloads\\app\\src\\main\\res\\values-fr-rCA-ldltr\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "115,57",
+                        "endColumns": "58,56",
+                        "endOffsets": "169,109"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,56",
+                        "endOffsets": "109,166"
+                    }
+                }
+            ]
+        }
+    ]
+}
